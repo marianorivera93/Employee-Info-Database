@@ -1,5 +1,7 @@
 # Employee Database Project
 
+I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data.
+
 ![sql.png](sql.png)
 
 
